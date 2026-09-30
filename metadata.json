@@ -1,0 +1,6 @@
+{
+  "name": "StormRadar",
+  "description": "Clear weather forecasts, interactive storm radar maps with affected areas, and real-time severe weather alert notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
